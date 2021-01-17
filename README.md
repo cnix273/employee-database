@@ -35,8 +35,8 @@ You must import the schema.sql file into MySQL to setup the database. Change the
 
 Using terminal, navigate to the directory containing the server.js file. Type "node server.js" into the command line to run the application. You will be prompted with a series of questions that will be used to generate populate the employee databse.
 
-**This video is a walkthrough of the application, showing its functioalityn**
-![Video Walkthrough](https://github.com/cnix273/employee-database/blob/main/assets/Walkthrough.mov)
+**This video is a walkthrough of the application, showing its functioality**
+![Video Walkthrough](https://github.com/cnix273/employee-database/blob/main/Walkthrough.mov)
 
 ## Credits
 
