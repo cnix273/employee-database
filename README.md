@@ -19,8 +19,9 @@ The can perform the following actions:
 
 1. Clone the repository from github to your local server. In terminal, type: "git clone https://github.com/cnix273/employee-database.git".
 2. Install Node.js. https://nodejs.org/en/download/
-3. Install the Inquirer npm package. In terminal, type: "npm install inquirer".
-4. Install the MySQL npm package. In terminal, type: "npm install mysql".
+3. Instal MySQL 8.0.20 and MySQL Workbench.
+4. Install the Inquirer npm package. In terminal, type: "npm install inquirer".
+5. Install the MySQL npm package. In terminal, type: "npm install mysql".
 
 ## Usage
 
@@ -30,7 +31,12 @@ The can perform the following actions:
 * GitHub - Hosts the repository that can be deployed to GitHub Pages.
 * MySQL - Databse Management System.
 
+You must import the schema.sql file into MySQL to setup the database. Change the "Password" parameter of the Connection Constant to your MySQL password to connect to your database.
+
 Using terminal, navigate to the directory containing the server.js file. Type "node server.js" into the command line to run the application. You will be prompted with a series of questions that will be used to generate populate the employee databse.
+
+**This video is a walkthrough of the application, showing its functioalityn**
+![Video Walkthrough](https://github.com/cnix273/employee-database/blob/main/assets/Walkthrough.mov)
 
 ## Credits
 
