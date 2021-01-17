@@ -32,9 +32,6 @@ The can perform the following actions:
 
 Using terminal, navigate to the directory containing the server.js file. Type "node server.js" into the command line to run the application. You will be prompted with a series of questions that will be used to generate populate the employee databse.
 
-**This video is a walkthrough of the application, showing its functioalityn**
-![Video Walkthrough](https://github.com/cnix273/README-Generator/blob/main/assets/Walkthrough.mov)
-
 ## Credits
 
 **Author:** Cameron Nix
